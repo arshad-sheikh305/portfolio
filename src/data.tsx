@@ -271,7 +271,7 @@ export const certificates: Certificate[] = [
     issuer: 'CYBER MIND SPACE',
     year: '2023',
     image:
-      '/4.jpeg.jpeg',
+      '/5.jpeg.jpeg',
     featured: false,
   },
 ];
